@@ -1,0 +1,8 @@
+[
+  {
+    "path": "Penumbra.String",
+    "baseCommit": "878acce46e286867d6ef1f8ecedb390f7bac34fd",
+    "patch": "patches/d6a0ce20a148a090.patch",
+    "sha256": "64dc9985c3014121c82f1d1c699db1fc9665bf7367235f8513f3893bb6325fb5"
+  }
+]
